@@ -129,7 +129,7 @@ Authors of this POM file: iirekm, jheaton
     			</executions>        		
         	</plugin>			
 			
-			<plugin>
+			<!-- <plugin>
         			<groupId>org.apache.maven.plugins</groupId>
         			<artifactId>maven-gpg-plugin</artifactId>
         			<version>1.1</version>
@@ -142,7 +142,7 @@ Authors of this POM file: iirekm, jheaton
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
+			</plugin> -->
 		</plugins>
 	</build>
 
